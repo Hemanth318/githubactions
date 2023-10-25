@@ -1,0 +1,15 @@
+Github actions is a workflow automation service. It can automate all the repository related actions and tasks.
+
+1. Code deployment - Automate code builds, tests and deployments.
+2. Code & Repository management - Automate code reviews, issues management, etc.
+
+Git is a source-code version control system.
+
+1. Commits - Code snapshots.
+2. Branches - Multiple versions of code. Used for collaboration and to serve multiple environments.
+3. Checkout - Copy code between branches and move to different branches.
+
+
+Github on the other hand is a Git service provider. Github is the one providing the Github actions to manage git repositories.
+
+git add <files> - Add the files to be committed.
