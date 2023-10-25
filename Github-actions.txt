@@ -15,6 +15,9 @@ Github on the other hand is a Git service provider. Github is the one providing 
 git add <files> - Add the files to be committed. Also called "staging" action.
 git commit -m "<message>" - Push all staged changes to repository.
 HEAD - Shows which commit is visible/active. Useful when moving between commits to keep track of our work.
+git checkout <commit hash> - To move between commits.
 
 **Testing a second commit**
+
+
 
