@@ -20,6 +20,8 @@ git revert <commit hash> - Reverting a specific commit. It can be any commit. Th
 git reset <commit hash>- Better not to use.
 git branch <branch name> - Creates a new branch with the HEAD commit.
 git merge <source branch name> - Used to merge the changes from the local branches to the main branch and vice-versa.
+git checkout <branch name> - Checks out the code from the existing branch, and switches to the new branch. git checkout can be used to create a new branch as well using the option "-b" (Ex. git checkout -b <new_branch>).
+
 
 **Testing a second commit**
 
