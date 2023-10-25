@@ -19,7 +19,5 @@ git checkout <commit hash> - To move between commits.
 
 **Testing a second commit**
 
-**Testing a bad commit and reverting it.*8
-
 
 
