@@ -1,0 +1,8 @@
+name: Testing self-hosted runners
+on:
+  [workflow_dispatch]
+jobs:
+  hello-world:
+    runs-on: [arc-runner-set]
+    steps:
+      - run: echo "Hello World!"
